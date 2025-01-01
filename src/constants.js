@@ -1,1 +1,1 @@
-export const DB_NAME = "Play-and-Pause"
+export const DB_NAME = "Project1"
